@@ -91,6 +91,8 @@ pip install selenium pandas numpy
 
 4. Pilih mode
 
+    ![tampilan-awal](assets/tampilan-awal.jpg)
+
      `1` Mode Manual → program akan menunggu hingga jam, menit, detik yang ditentukan.  
 
     `2` Mode Otomatis → program akan looping hingga semua matkul berhasil diamankan.
