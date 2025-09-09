@@ -12,6 +12,8 @@ Program dapat berjalan dalam **mode manual** (sesuai jadwal jam/menit/detik KRS 
 
 
 
+
+
 ## 🚀 Fitur
 
 - Login otomatis ke portal mahasiswa.
@@ -98,7 +100,13 @@ pip install selenium pandas numpy
     `2` Mode Otomatis → program akan looping hingga semua matkul berhasil diamankan.
 
 
+## Demonstrasi
 
+Mode Manual:
+[![Demo Video](https://img.youtube.com/vi/vcDb0vNcduY/0.jpg)](https://www.youtube.com/watch?v=vcDb0vNcduY)
+
+Mode Otomatis:
+[![Demo Video](https://img.youtube.com/vi/zVAV1qLsjyk/0.jpg)](https://www.youtube.com/watch?v=zVAV1qLsjyk)
 
 
 ## ⚠️ Disclaimer
