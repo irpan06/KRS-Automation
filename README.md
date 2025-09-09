@@ -121,7 +121,7 @@ Mode Otomatis:
 
 - Risiko penggunaan sepenuhnya ditanggung pengguna.  
 
-- Gunakan secara bijak sesuai aturan akademik masing-masing universitas.  
+- Gunakan secara bijak sesuai aturan akademik masing-masing program studi.  
 
 ---
 
