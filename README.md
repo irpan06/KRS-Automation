@@ -2,29 +2,9 @@
 
 
 
-Script ini dibuat untuk membantu mahasiswa melakukan \*\*otomasi pengisian Kartu Rencana Studi (KRS)\*\* secara cepat menggunakan \*\*Python + Selenium\*\*.
+Script ini dibuat untuk membantu mahasiswa melakukan **otomasi pengisian Kartu Rencana Studi (KRS)** secara cepat menggunakan **Python + Selenium**.
 
-Program dapat berjalan dalam \*\*mode manual\*\* (sesuai jadwal jam/menit/detik KRS dibuka) maupun \*\*mode otomatis\*\* (melakukan pengecekan berkala hingga semua mata kuliah berhasil diamankan).
-
-
-
----
-
-
-
-\## 🚀 Fitur
-
-\- Login otomatis ke portal mahasiswa.
-
-\- Mendukung \*\*mode manual\*\* (start sesuai waktu yang ditentukan).
-
-\- Mendukung \*\*mode otomatis\*\* (looping hingga matkul didapat).
-
-\- Membaca akun, mata kuliah, dan kelas dari file eksternal.
-
-\- Validasi pengguna dengan Google Spreadsheet.
-
-\- Output status berhasil/gagal setiap percobaan.
+Program dapat berjalan dalam **mode manual** (sesuai jadwal jam/menit/detik KRS dibuka) maupun **mode otomatis** (melakukan pengecekan berkala hingga semua mata kuliah berhasil diamankan).
 
 
 
@@ -32,17 +12,37 @@ Program dapat berjalan dalam \*\*mode manual\*\* (sesuai jadwal jam/menit/detik 
 
 
 
-\## 🛠️ Persyaratan
+## 🚀 Fitur
+
+- Login otomatis ke portal mahasiswa.
+
+- Mendukung **mode manual** (start sesuai waktu yang ditentukan).
+
+- Mendukung **mode otomatis** (looping hingga matkul didapat).
+
+- Membaca akun, mata kuliah, dan kelas dari file eksternal.
+
+- Validasi pengguna dengan Google Spreadsheet.
+
+- Output status berhasil/gagal setiap percobaan.
+
+
+
+---
+
+
+
+## 🛠️ Persyaratan
 
 Pastikan sudah menginstall:
 
-\- Python 3.8 atau lebih baru
+- Python 3.8 atau lebih baru
 
-\- Google Chrome
+- Google Chrome
 
-\- \[ChromeDriver](https://chromedriver.chromium.org/downloads) (versi sesuai Chrome Anda)
+- [ChromeDriver](https://chromedriver.chromium.org/downloads) (versi sesuai Chrome Anda)
 
-\- Library Python:
+- Library Python:
 
   ```bash
 
@@ -50,11 +50,11 @@ Pastikan sudah menginstall:
 
 
 
-\## 📑 Cara Penggunaan
+## 📑 Cara Penggunaan
 
 
 
-1\. Clone repository
+1. Clone repository
 
 &nbsp;  ```bash
 
@@ -64,7 +64,7 @@ Pastikan sudah menginstall:
 
 
 
-2\. Isi data akun
+2. Isi data akun
 
 &nbsp;  - `nim.txt` → masukkan NIM Anda  
 
@@ -88,7 +88,7 @@ Pastikan sudah menginstall:
 
 
 
-3\. Jalankan program
+3. Jalankan program
 
    ```bash
 
@@ -96,7 +96,7 @@ Pastikan sudah menginstall:
 
 
 
-4\. Pilih mode
+4. Pilih mode
 
 &nbsp;  - `1` Mode Manual → program akan menunggu hingga jam, menit, detik yang ditentukan.  
 
@@ -106,15 +106,15 @@ Pastikan sudah menginstall:
 
 
 
-\## ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 
 
-\- Script ini dibuat hanya untuk tujuan \*\*pembelajaran\*\*.  
+- Script ini dibuat hanya untuk tujuan **pembelajaran**.  
 
-\- Risiko penggunaan sepenuhnya ditanggung pengguna.  
+- Risiko penggunaan sepenuhnya ditanggung pengguna.  
 
-\- Gunakan secara bijak sesuai aturan akademik masing-masing universitas.  
+- Gunakan secara bijak sesuai aturan akademik masing-masing universitas.  
 
 
 
