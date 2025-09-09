@@ -55,35 +55,35 @@ pip install selenium pandas numpy
 
 1. Clone repository
 
-&nbsp;  ```bash
+```bash
 
-&nbsp;  git clone https://github.com/irpan06/KRS-Automation.git
+git clone https://github.com/irpan06/KRS-Automation.git
 
-&nbsp;  cd KRS-Automation
-
+cd KRS-Automation
+```
 
 
 2. Isi data akun
 
-&nbsp;  - `nim.txt` → masukkan NIM Anda  
+  - `nim.txt` → masukkan NIM Anda  
 
-&nbsp;  - `pw.txt` → masukkan password  
+  - `pw.txt` → masukkan password  
 
-&nbsp;  - `matkul.txt` → daftar kode/nama mata kuliah, contoh:  
+  - `matkul.txt` → daftar kode/nama mata kuliah, contoh:  
 
-&nbsp;    ```txt
+    ```txt
 
-&nbsp;    FIS101, MAT102, KIM103
+    FIS101, MAT102, KIM103
 
-&nbsp;    ```
+    ```
 
-&nbsp;  - `kelas.txt` → daftar kelas yang sesuai, contoh:  
+  - `kelas.txt` → daftar kelas yang sesuai, contoh:  
 
-&nbsp;    ```txt
+    ```txt
 
-&nbsp;    A, B, C
+    A, B, C
 
-&nbsp;    ```
+    ```
 
 
 
@@ -97,9 +97,9 @@ pip install selenium pandas numpy
 
 4. Pilih mode
 
-&nbsp;  - `1` Mode Manual → program akan menunggu hingga jam, menit, detik yang ditentukan.  
+  - `1` Mode Manual → program akan menunggu hingga jam, menit, detik yang ditentukan.  
 
-&nbsp;  - `2` Mode Otomatis → program akan looping hingga semua matkul berhasil diamankan.
+  - `2` Mode Otomatis → program akan looping hingga semua matkul berhasil diamankan.
 
 
 
