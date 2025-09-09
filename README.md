@@ -71,12 +71,12 @@ pip install selenium pandas numpy
 
     `matkul.txt` → daftar nama mata kuliah, contoh:  
 
-        Skripsi, Bahasa Inggris I, Fisika Modern
+        Skripsi,Bahasa Inggris I,Fisika Modern
 
 
     `kelas.txt` → daftar kelas yang sesuai, contoh:  
         
-        A, B, C
+        A,B,C
 
 
 
@@ -84,7 +84,7 @@ pip install selenium pandas numpy
 3. Jalankan program
 
     ```bash
-       python krs.py
+    python krs.py
     ```
 
 
