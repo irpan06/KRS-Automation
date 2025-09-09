@@ -104,9 +104,11 @@ pip install selenium pandas numpy
 ## Demonstrasi
 
 Mode Manual:
+
 [![Demo Video](https://img.youtube.com/vi/vcDb0vNcduY/0.jpg)](https://www.youtube.com/watch?v=vcDb0vNcduY)
 
 Mode Otomatis:
+
 [![Demo Video](https://img.youtube.com/vi/zVAV1qLsjyk/0.jpg)](https://www.youtube.com/watch?v=zVAV1qLsjyk)
 
 --- 
