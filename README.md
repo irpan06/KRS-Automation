@@ -69,11 +69,11 @@ cd KRS-Automation
 
   - `pw.txt` → masukkan password  
 
-  - `matkul.txt` → daftar kode/nama mata kuliah, contoh:  
+  - `matkul.txt` → daftar nama mata kuliah, contoh:  
 
     ```txt
 
-    FIS101, MAT102, KIM103
+    Skripsi, Bahasa Inggris I, Fisika Modern
 
     ```
 
@@ -92,6 +92,8 @@ cd KRS-Automation
    ```bash
 
    python krs.py
+
+```
 
 
 
