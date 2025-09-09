@@ -89,9 +89,9 @@ cd KRS-Automation
 
 3. Jalankan program
 
-   ```bash
-
-   python krs.py ```
+```bash
+   python krs.py
+```
 
 
 
