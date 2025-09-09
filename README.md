@@ -44,10 +44,9 @@ Pastikan sudah menginstall:
 
 - Library Python:
 
-  ```bash
-
-  pip install selenium pandas numpy
-
+```bash
+pip install selenium pandas numpy
+```
 
 
 ## 📑 Cara Penggunaan
