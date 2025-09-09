@@ -1,4 +1,4 @@
-\# 📌 Otomasi Pengambilan Mata Kuliah KRS
+# 📌 Otomasi Pengambilan Mata Kuliah KRS
 
 
 
