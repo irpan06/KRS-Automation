@@ -91,9 +91,7 @@ cd KRS-Automation
 
    ```bash
 
-   python krs.py
-
-```
+   python krs.py ```
 
 
 
