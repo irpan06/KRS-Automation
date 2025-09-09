@@ -71,19 +71,13 @@ pip install selenium pandas numpy
 
     `matkul.txt` → daftar nama mata kuliah, contoh:  
 
-        ```
-
         Skripsi, Bahasa Inggris I, Fisika Modern
 
-        ```
 
     `kelas.txt` → daftar kelas yang sesuai, contoh:  
-
-        ```
-
+        
         A, B, C
 
-        ```
 
 
 
