@@ -65,25 +65,25 @@ pip install selenium pandas numpy
 
 2. Isi data akun
 
-`nim.txt` → masukkan NIM Anda  
+    `nim.txt` → masukkan NIM Anda  
 
-`pw.txt` → masukkan password  
+    `pw.txt` → masukkan password  
 
-`matkul.txt` → daftar nama mata kuliah, contoh:  
+    `matkul.txt` → daftar nama mata kuliah, contoh:  
 
-    ```txt
+        ```txt
 
-    Skripsi, Bahasa Inggris I, Fisika Modern
+        Skripsi, Bahasa Inggris I, Fisika Modern
 
-    ```
+        ```
 
- `kelas.txt` → daftar kelas yang sesuai, contoh:  
+    `kelas.txt` → daftar kelas yang sesuai, contoh:  
 
-    ```txt
+        ```txt
 
-    A, B, C
+        A, B, C
 
-    ```
+        ```
 
 
 
